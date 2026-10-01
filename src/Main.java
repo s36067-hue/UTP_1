@@ -1,4 +1,5 @@
 // TODO: musimy dodac brakujace klasy!
+// OK, ja dodam ‘Adder‘, a s35557 doda ‘Subtractor‘.
 
 public class Main {
     public static void main(String[] args) {
